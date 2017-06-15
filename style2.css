@@ -1,0 +1,129 @@
+
+
+#menu{
+	width:960px;
+	height:40px;
+	background-color:#ea5b0c;
+	
+}
+ul{
+	list-style:none outside none;
+	padding-top:7px;
+}
+li{
+	display:inline;
+	font-size:18px;
+	padding-left:55px;	
+}
+#logoo{
+	width:250px;
+	height:152px;
+    float:left;
+}
+#banner{
+	width:960px;
+	height:96px;
+}
+#solbanner{
+	width:500px;
+	height:96px;
+}
+#bannerinfo{
+	width:900px;
+	height:800px;
+	float:right;
+    border-width:2px; 
+}
+#buyukmenu{
+	width:960px;
+	height:500px;
+}
+#kutu{
+	width:270px;
+	height:33px;
+	background-color:#ca26e2;
+	margin:auto
+}
+#banner2{
+	width:960px;
+	height:33px;
+	
+}
+#araba{
+	width:300px;
+	height:200px;
+}
+.yazi{
+	font-family:Myriad Pro;
+	font-size:29px;
+	position:inherit;
+	padding-bottom:25px;
+}
+#arabalar{
+	width:960px;
+	height:200px;
+	float:left;
+}
+#banner4{
+	width:960px;
+	height:350px;
+}
+#arabalar1{
+	width:960px;
+	height:200px;
+	float:left;
+}
+#araba1{
+	width:300px;
+	height:200px;
+}
+#log{
+	width:100px;
+	height:100px;
+	padding-left:450px;
+	padding-top:40px;
+}
+#banner3{
+	width:960px;
+    height:350px;
+}
+#banner5{
+	width:960px;
+	height:350px;
+}
+#asdf{
+	width:200px;
+	height:250px;
+	background-color:#ea5b0c;
+	font-size:25px;
+	
+}
+#container{
+	width:960px;
+	height:100px;
+	margin:0 auto;
+}
+#asdfg{
+	width:200px;
+	height:250px;
+	background-color:#ea5b0c;
+	font-size:25px;
+	margin-left:270px;
+	margin-top:-250px;
+}
+#asdfgh{
+	width:200px;
+	height:250px;
+	background-color:#ea5b0c;
+	font-size:25px;
+	margin-left:545px;
+	margin-top:-250px;
+}
+#twitter{
+	width:200px;
+	height:250px;
+	background-color:#ea5b0c;
+	font-size:25px;
+	margin-left:545px;
+	margin-top:-250px;
+}
